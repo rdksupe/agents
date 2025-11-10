@@ -132,6 +132,7 @@ Custom filler words: {'like', 'basically'}
 
     ```bash
     git clone https://github.com/rdksupe/agents/
+    git checkout feat/livekit-interrupt-handler-rishi
     cd livekit-agents
     ```
 
