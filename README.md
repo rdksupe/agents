@@ -156,6 +156,11 @@ Custom filler words: {'like', 'basically'}
         --valid-for 24h
     ```
 
+4. **Modify the .env.example with yoour relevant API Keys create a .env file**
+    ```bash
+    cp .env.example .env
+    ```
+
 4.  **Run the sample agent**
 
     ```bash
