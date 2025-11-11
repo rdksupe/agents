@@ -30,7 +30,7 @@ def _interrupt_by_audio_activity(self) -> None:
 
 ## My Modifications
 
-### Live Demo of a running Voice Agent with the modified SDK
+### Live Demo of a running Voice Agent with the added filler word detection
 
 
 
